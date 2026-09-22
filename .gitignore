@@ -1,0 +1,15 @@
+# C++ build outputs
+*.out
+*.exe
+*.bin
+*.o
+a.out
+*.dSYM/
+
+# macOS and IDE metadata
+.DS_Store
+.vscode/
+.cph/
+
+# local scratch files
+*.tmp
