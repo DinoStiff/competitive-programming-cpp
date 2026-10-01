@@ -77,12 +77,11 @@ bool intersect(Vec a, Vec b, Vec c, Vec d){
 
 
 Vec proj(Vec a, Vec b){
-	
+
 }
 
 struct Seg{
 
-    
 };
 
 struct DSU{
